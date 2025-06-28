@@ -32,10 +32,6 @@
 </tr>
 <table>
 
-<div style="width: 100%;" align="center">
-<a href="https://app.daily.dev/rakibul_hossain"><img src="https://api.daily.dev/devcards/6dc1010fa03e4daa87f4e12f41943f3b.png?r=ddl" width="400" alt="MD Rakibul Hossain's Dev Card"/></a>
-</div>
-
 <br>
 
 <div style="width: 100%;" align="center">
